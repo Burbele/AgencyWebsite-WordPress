@@ -14,4 +14,4 @@ Kadence
 
 <b>Watch the demo video below!</b>
 
-[![Watch the video](https://img.youtube.com/vi/7EmDWLsZnRU/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/7EmDWLsZnRU/maxresdefault.jpg)](https://youtu.be/7EmDWLsZnRU)
